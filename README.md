@@ -1,4 +1,4 @@
-# phonecallstate
+# callstate
 
 Flutter plugin to receive Phone Call State for both iOS and Android.
 
